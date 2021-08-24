@@ -1,15 +1,16 @@
 // == Import npm
 import React from 'react';
 import LightCheckbox from '../LightCheckbox';
+import LightCheckbox2 from '../LightCheckbox2';
 
 // == Import
-import reactLogo from './react-logo.svg';
 import './styles.css';
 
 // == Composant
 const App = () => (
   <>
     <LightCheckbox />
+    <LightCheckbox2 />
   </>
 );
 
